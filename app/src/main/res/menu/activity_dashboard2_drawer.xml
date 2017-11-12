@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+       <!-- <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Import" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />-->
+        <!--<item-->
+            <!--android:id="@+id/dispatch_approve"-->
+            <!--android:icon="@drawable/ic_menu_manage"-->
+            <!--android:title="Dispatch Approve"-->
+            <!--/>-->
+        <item
+            android:id="@+id/add_order"
+            android:icon="@drawable/ic_home"
+            android:title="Home"/>
+      <!--  <item
+            android:id="@+id/add_vehicle"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/add_vehicle"/>-->
+
+
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/about"
+            android:title="About"
+            />
+
+
+        <item
+            android:id="@+id/admisions"
+            android:icon="@drawable/icon_logout"
+            android:title="Admissions" />
+
+        <item
+            android:id="@+id/department"
+            android:icon="@drawable/depart"
+            android:title="Department" />
+        <item
+            android:id="@+id/bmsitlife"
+            android:icon="@drawable/icon_logout"
+            android:title="BMSIT Life" />
+        <item
+            android:icon="@drawable/ic_canteen"
+            android:title="Canteen"
+            android:id="@+id/canteen"/>
+        <item
+            android:id="@+id/facility"
+            android:icon="@drawable/facility"
+            android:title="Facilities" />
+        <item
+            android:icon="@drawable/vtu"
+            android:title="VTU Corner" />
+        <item
+            android:id="@+id/timeline"
+            android:icon="@drawable/notification"
+            android:title="Timeline" />
+
+        <item
+            android:id="@+id/workshop"
+            android:icon="@drawable/developer"
+            android:title="Workshop" />
+        <item
+            android:id="@+id/coe"
+            android:icon="@drawable/coe"
+            android:title="COE" />
+        <item
+            android:id="@+id/placement"
+            android:icon="@drawable/placement"
+            android:title="Placements" />
+
+        <item
+            android:icon="@drawable/near"
+            android:title="Near By You"
+            android:id="@+id/nearbyyou"/>
+
+
+        <item
+            android:id="@+id/developer"
+            android:icon="@drawable/developer"
+            android:title="Developer" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!--<item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>-->
+
+
+</menu>

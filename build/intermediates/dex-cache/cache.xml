@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/allam/.android/build-cache/bfd55a58cff0b43a6c9ec7b636401b5d5e238ea4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/classes_559475fac953d8135ccbd8ec4d2b352cc93bdc74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_414d30eb098d3f1418096772d31c6e9548985b2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.android/build-cache/4f0cf5833f37eca035d5424f1f546a3fd14c6f59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/classes_7623ae0ff0bf7735049d9be8878f67c7a1a8fa85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.2.4/7abd1ecef320da6a7679b137083151401fe8bf43/MPAndroidChart-v2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.2.4_ecdfd699c43c410377148c2ee102117e2df5520f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_414d30eb098d3f1418096772d31c6e9548985b2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/okhttp-3.0.1_b519d917c28a2859d519eea54522e0b129fa5d1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.android/build-cache/c67a90d9f0b3c1112afd82bb9c81fb0b02722e51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/classes_2d164cfd1d9d1caf02dd0b96acce7f8cd792789f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.android/build-cache/78944c63a554a89db00eb44d0b5968b862b54e81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/classes_710bdd056859298b36873d223a7c37c97f98ec1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.android/build-cache/1b922dacd379041c202f2ca84a2edc8d7991bb5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/classes_6d965ca7266fd6c2cd8a90acb33eecb6d9b922d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/gson-2.7_8197d026829aa15aca54f9db2bf9d877704ca0d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.android/build-cache/fd7c75a8686deebdf7aaf0e89f5f1a346e83ac1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9f58e509a3ff5b601c11ab5ec588c96f9eb82b2">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/classes_36b13d7de6f6e2b859e8738725dedc657def24d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_e984c9681f90703c5db463ef20efe45d3ede20e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.android/build-cache/e70d6649dfa7a41a654dd24d7933d6ad5db2aa7b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/classes_7a588970a7bfafea2dd683e22e68ca51f289aa8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_23824f4422b113118ddb1f2fb07dc950b3e0850b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.android/build-cache/a8b10d6262db27e415e90a7ccaaa9d0849c72b34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/classes_3b4a968aea2ebb3d6413d440a2c7e6a4dbd280cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_bef223a2176ce553e2b63a538fab3cd3d2ac8f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta4/739e00dea1f0ac04fdb9b6160d667e23cc50a791/retrofit-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta4_8027ca981c25bce7941abe11a45ca7a4c384b7ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.android/build-cache/5c5e0bfb026e1991c9a2bd2c4e6b83936ea5877b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/classes_0e22dd6486b4fffcf2090a18582c83ee2314f9ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/allam/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/allam/AndroidStudioProjects/Guru/app/build/intermediates/pre-dexed/debug/okio-1.6.0_3bb201fc85f0f0ca57ce2db4371efd169733d8e6.jar" />
+    </item>
+
+</items>

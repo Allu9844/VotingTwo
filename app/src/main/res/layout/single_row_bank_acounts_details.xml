@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginRight="5dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginTop="10dp"
+    android:background="@color/white"
+    app:cardElevation="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="10"
+            android:background="@color/white">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:layout_weight="4.2">
+
+                    <RadioButton
+                        android:id="@+id/radio_button"
+                        android:layout_width="40dp"
+                        android:layout_height="match_parent"
+                        android:textColor="@color/black"
+                        android:backgroundTint="@color/black"
+                        android:layout_gravity="center"
+                        android:buttonTint="@color/black"/>
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_weight="2.3">
+
+                    <TextView
+                        android:id="@+id/name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="fjhvbhjfbv"                        android:gravity="left"
+                        android:textColor="@color/black"/>
+
+                    <TextView
+                        android:id="@+id/party"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="chdbv hgcdbv"
+                        android:gravity="left"
+                        android:textColor="@color/black"/>
+
+                    <TextView
+                        android:id="@+id/ifsc"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="hjdbvhjfd"
+                        android:gravity="left"
+                        android:textColor="@color/black"/>
+
+                    <TextView
+                        android:id="@+id/bank_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="hjcbv hb"
+                        android:gravity="left"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="center"
+                    android:layout_weight="3.5">
+
+                    <ImageView
+                        android:id="@+id/logo"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" />
+
+
+                    </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+

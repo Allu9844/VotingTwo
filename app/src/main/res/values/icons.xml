@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="fa_icon_areachart" translatable="false">&#xf0a2;</string>
+   <string name="fa_icon_piechart" translatable="false">&#xf200;</string>
+   <string name="fa_icon_linechart" translatable="false">&#xf201;</string>
+   <string name="fa_icon_fromimage" translatable="false">&#xf275;</string>
+   <string name="fa_icon_toimage" translatable="false">&#xf041;</string>
+   <string name="fa_icon_grade" translatable="false">&#xf0f6;</string>
+   <string name="fa_icon_quantityimage" translatable="false">&#xf24e;</string>
+   <string name="fa_icon_frieghtrate" translatable="false">&#xf156;</string>
+   <string name="fa_icon_dateimage" translatable="false">&#xf271;</string>
+   <string name="fa_user" translatable="false">&#xf007;</string>
+</resources>

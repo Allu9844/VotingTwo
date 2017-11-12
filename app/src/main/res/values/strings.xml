@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">Vote</string>
+    <string name="schedule_from">From</string>
+    <string name="schedule_to">To</string>
+    <string name="schedule_quantity">Quantity</string>
+    <string name="schedule_rate">Freight Rate</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="please_wait_update">Please wait...Checking for Updates</string>
+    <string name="error">Please try again!</string>
+    <string name="schedule_date">Date</string>
+    <string name="dispatches">Dispatches</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="book">Book</string>
+    <string name="todays_summary">Today\'s Summary</string>
+    <string name="valid_mobile_number">Mobile number</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="schedule_id">Schedule Id</string>
+    <string name="dispatch_qty">Dispatch Qty</string>
+    <string name="dispatch_rate">Dispatch Rate</string>
+    <string name="freight_rate">Freight Rate</string>
+    <string name="contract_rate">Contract Rate</string>
+    <string name="vehicle_number">Vehicle Number</string>
+    <string name="vehicle_owner">Vehicle Owner</string>
+    <string name="driver_name">Driver Name</string>
+    <string name="driver_number">Driver Number</string>
+    <string name="remark">Remarks</string>
+    <string name="disp_id">Dispatch ID</string>
+    <string name="disp_qnty">Dispatch Quantity</string>
+    <string name="dis_date">Dispatch Date</string>
+    <string name="status">Status</string>
+    <string name="fill">Please fill this!</string>
+    <string name="schedules">Schedules</string>
+    <string name="dispatchedsuccess">Booked Successfully</string>
+    <string name="title_activity_dashboard2">Available Orders</string>
+    <string name="title_activity_contact_us">Contact Us</string>
+    <string name="call_for_service">Call for Orders Enquiry</string>
+    <string name="call_for_payment">Call for Payment Enquiry</string>
+    <string name="whatsapp">Text on WhatsApp</string>
+    <string name="web">support@goflamingo.co.in</string>
+    <string name="your_order_is">Your order is</string>
+    <string name="new_order">New Order</string>
+    <string name="ok">Ok</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="whatsapp_number">+919108510431</string>
+    <string name="payment_number">+919108510432</string>
+    <string name="all_dispatches">My Orders</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_orders">My Orders</string>
+    <string name="schd_id">Schedule Id</string>
+    <string name="disp_vehicle">Dispatch Vehicle</string>
+    <string name="source">Source</string>
+    <string name="destination">Destination</string>
+    <string name="cancel">CANCEL</string>
+    <string name="vehicle_tonnage">Vehicle Tonnage</string>
+    <string name="exit_message">Are you sure you want to exit?</string>
+    <string name="exit_message2">Exit</string>
+    <string name="goflamingo">goflamingo</string>
+    <string name="notContoInt">Please connect to Internet</string>
+    <string name="vehicle_details">Vehicle Details</string>
+    <string name="login_in">Login In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_fail">Please try again!</string>
+    <string name="login_enter_details">Please enter Mobile number/Password</string>
+    <string name="logout_message">Are you sure you want to logout?</string>
+    <string name="logout_message2">Logout</string>
+    <string name="logout">Logout</string>
+    <string name="contact_us">Contact us</string>
+    <string name="about_us">About us</string>
+    <string name="mobile_no">Mobile Number</string>
+    <string name="todays">Today\'s </string>
+    <string name="summary">Summary</string>
+    <string name="load_available">Order Available</string>
+    <string name="load_request">Order Request</string>
+    <string name="load_approve">Order Approved</string>
+    <string name="load_rejected">Order Rejected</string>
+
+    <string name="noorders">No Orders</string>
+    <string name="username">allam</string>
+    <string name="password">allam123</string>
+    <!--<string name="username">allam</string>
+    <string name="password">allam123</string>-->
+    <string name="add_vehicle">Add Vehicle</string>
+    <string name="loaded_status">Loaded</string>
+    <string name="unloaded_status">Unloaded</string>
+    <string name="intransit_status">In-transit</string>
+    <string name="submit">CONFIRM</string>
+    <string name="vehicle_member">Transporter</string>
+    <string name="status_approvedorrejected">Approved</string>
+    <string name="onroute">OnRoute</string>
+    <string name="reached">Reached</string>
+    <string name="delivered_status">Delivered</string>
+    <string name="status_rejected">cancelled</string>
+    <string name="onLoaded">Loaded</string>
+    <string name="unLoaded">UnLoaded</string>
+    <string name="approve">Approve</string>
+    <string name="rejected">Reject</string>
+    <string name="dispatch_approve">Dispatch Approve</string>
+    <string name="show_password">Show Password</string>
+    <string name="passwordhint">password</string>
+
+    <string name="status_added_msg">Status added successfully</string>
+    <string name="status_not_selected">Please Select Option</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="unable_to_call">Unable to call try again</string>
+
+    <string name="website_url">http://www.goflamingo.co.in/</string>
+
+    <string name="lang_title" translatable="false">Language</string>
+    <string name="lang_msg" translatable="false">Select language</string>
+    <string name="kannada" translatable="false">ಕನ್ನಡ</string>
+    <string name="english" translatable="false">English</string>
+
+    <string name="lang">ಕನ್ನಡ</string>
+</resources>

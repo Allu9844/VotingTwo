@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "586678453841",
+    "firebase_url": "https://bmsit-4c913.firebaseio.com",
+    "project_id": "bmsit-4c913",
+    "storage_bucket": "bmsit-4c913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586678453841:android:37ea4ab670515340",
+        "android_client_info": {
+          "package_name": "com.guruprasadhiremathgmail.bmsit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586678453841-mmdrno3aejhamp74531ut98c3n2e14km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwCR2IlaohNSEFefpJ1ZlP8RrZe7u18Mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
